@@ -197,6 +197,6 @@ The comparison of six machine learning algorithms shows that the **Support Vecto
 
 ## Author
 
-**AIML Student Project**
+Tadi Anu
 
 ---
